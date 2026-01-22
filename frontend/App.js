@@ -78,9 +78,4 @@ const styles = StyleSheet.create({
     color: '#666',
     marginBottom: 10,
   },
-  statusText: {
-    fontSize: 18,
-    fontWeight: '500',
-    textAlign: 'center',
-  },
 });
